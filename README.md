@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=omidzed&theme=blue-green&hide_border=true&border_radius=19.2&card_width=650" alt="GitHub Streak" /></a>
+<center><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=omidzed&theme=blue-green&hide_border=true&border_radius=10&card_width=450" alt="GitHub Streak" /></a></center>
