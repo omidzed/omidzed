@@ -11,6 +11,7 @@ I also love to travel and my next adventures that I have planned are going to be
 ### 📫 Let's Connect
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/omidzasadi/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) </a> <a href="mailto:omiddzedd@gmail.com">![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) </a> [![iCloud Mail](https://github.com/omidzed/omidzed/blob/main/icloudzmail.png?raw=true)](mailto:omidzedd@icloud.com)
 
+<a href="mailto:omidzedd@icloud.com"><img src="icloud-mail.png" width="108" height="28"></a>
 ---
 <div align="center">
  	
