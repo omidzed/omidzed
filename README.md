@@ -8,14 +8,14 @@ I also love to travel and my next adventures that I have planned are going to be
 &nbsp;&nbsp;&nbsp;&nbsp;I believe in the power of technology to change the world, and I'm on a mission to contribute to that change. Let's connect and make something amazing together!
 
 
-### 📫 Let's Connect
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/omidzasadi/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) </a> <a href="mailto:omiddzedd@gmail.com">![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) </a> [![iCloud Mail](https://github.com/omidzed/omidzed/blob/main/icloudzmail.png?raw=true)](mailto:omidzedd@icloud.com)
+## 📫 Let's Connect
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/omidzasadi/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) </a> <a href="mailto:omiddzedd@gmail.com">![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) </a><a href="mailto:omidzedd@icloud.com"><img src="icloud-mail.png" width="100" height="28"></a>
 
-<a href="mailto:omidzedd@icloud.com"><img src="icloud-mail.png" width="108" height="28"></a>
 ---
+
 <div align="center">
  	
-💻 Core Technologies :
+### 💻 Core Technologies :
 
 <p align="center">
 <a href="https://skillicons.dev">
@@ -24,8 +24,8 @@ I also love to travel and my next adventures that I have planned are going to be
 🔧 Other Languages & Tools :
 
 <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts&perline=50"/><br>
-<img src="https://skillicons.dev/icons?i=nextjs,vite,figma,git,github,bash,powershell,npm,postman&perline=50"/>
-<img src="https://skillicons.dev/icons?i=vercel,firebase,aws,vscode,docker,jest,cs,java,androidstudio,ps,pr,xd&perline=50"/>
+<img src="https://skillicons.dev/icons?i=nextjs,vite,figma,git,github,npm,postman&perline=50"/><br>
+<img src="https://skillicons.dev/icons?i=vercel,firebase,aws,vscode,docker,jest,ps,pr,xd&perline=50"/>
 </a>
    </div>
 
@@ -57,5 +57,3 @@ Here are some ideas to get you started:
  <img src="https://komarev.com/ghpvc/?username=omidzed&style=flat-square&color=blue" alt=""/>
 -->
 
-
----
