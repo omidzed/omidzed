@@ -1,6 +1,6 @@
-
-<a href="https://github.com/omidzed/omidzed/blob/main/Omid-Resume.pdf">[![Badge](https://img.shields.io/badge/My-Resume-color)]([Your-URL-here]([https://github.com/omidzed](https://github.com/omidzed/omidzed/blob/main/Omid-Resume.pdf)))</a>
-
+<a href="https://github.com/omidzed/omidzed/blob/main/Omid-Resume.pdf">
+    <img src="https://img.shields.io/badge/My-Resume-yellow" alt="My Resume">
+</a>
 
 ### 👋 Hi there, 
 
