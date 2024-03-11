@@ -1,7 +1,3 @@
-<a href="https://github.com/omidzed/omidzed/blob/main/Omid-Resume.pdf">
-    <img src="https://img.shields.io/badge/My-Resume-yellow" alt="My Resume">
-</a>
-
 ### 👋 Hi there, 
 
 &nbsp;&nbsp;&nbsp;&nbsp;My name is Omid, and I am a full stack software developer from Southern California with a keen eye for impactful technology. My journey in tech is driven by a deep-seated passion for creating solutions that matter and a continuous quest for learning and challenging myself in the process.
@@ -12,10 +8,10 @@
 
 ---
 
-<h2>   📄  View My Resume </h2>
+#  <a href="https://github.com/omidzed/omidzed/blob/main/Omid-Resume.pdf"><img src="https://img.shields.io/badge/My-Resume-green" alt="My Resume"></a>
+    
 
-
-###  📫   &nbsp; Let's Connect: &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.linkedin.com/in/omidzasadi/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) </a> <a href="mailto:omiddzedd@gmail.com">![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="mailto:omidzedd@icloud.com"><img src="icloud-mail.png" width="100" height="28"></a>
+###  📫 Let's Connect: &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.linkedin.com/in/omidzasadi/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) </a> <a href="mailto:omiddzedd@gmail.com">![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="mailto:omidzedd@icloud.com"><img src="icloud-mail.png" width="100" height="28"></a>
  
 
 ---
