@@ -1,5 +1,5 @@
-[![Badge](https://img.shields.io/badge/label-message-color)]([Your-URL-here](https://github.com/omidzed))
-[![Badge](https://img.shields.io/badge/My-Resume-color)]([Your-URL-here]([https://github.com/omidzed](https://github.com/omidzed/omidzed/blob/main/Omid-Resume.pdf)))
+
+<a href="https://github.com/omidzed/omidzed/blob/main/Omid-Resume.pdf">[![Badge](https://img.shields.io/badge/My-Resume-color)]([Your-URL-here]([https://github.com/omidzed](https://github.com/omidzed/omidzed/blob/main/Omid-Resume.pdf)))</a>
 
 
 ### 👋 Hi there, 
@@ -12,7 +12,7 @@
 
 ---
 
-<h2> <a href="https://github.com/omidzed/omidzed/blob/main/Omid-Resume.pdf">  📄  View My Resume</a> </h2>
+<h2>   📄  View My Resume </h2>
 
 
 ###  📫   &nbsp; Let's Connect: &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.linkedin.com/in/omidzasadi/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) </a> <a href="mailto:omiddzedd@gmail.com">![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="mailto:omidzedd@icloud.com"><img src="icloud-mail.png" width="100" height="28"></a>
