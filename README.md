@@ -1,4 +1,8 @@
-## 👋 Hi there, 
+[![Badge](https://img.shields.io/badge/label-message-color)]([Your-URL-here](https://github.com/omidzed))
+[![Badge](https://img.shields.io/badge/My-Resume-color)]([Your-URL-here]([https://github.com/omidzed](https://github.com/omidzed/omidzed/blob/main/Omid-Resume.pdf)))
+
+
+### 👋 Hi there, 
 
 &nbsp;&nbsp;&nbsp;&nbsp;My name is Omid, and I am a full stack software developer from Southern California with a keen eye for impactful technology. My journey in tech is driven by a deep-seated passion for creating solutions that matter and a continuous quest for learning and challenging myself in the process.
 
@@ -6,14 +10,18 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;I believe in the power of technology to change the world, and I'm on a mission to contribute to that change. Let's connect and make something amazing together!
 
+---
 
-## 📫 Let's Connect
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/omidzasadi/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) </a> <a href="mailto:omiddzedd@gmail.com">![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) </a><a href="mailto:omidzedd@icloud.com"><img src="icloud-mail.png" width="100" height="28"></a>
+<h2> <a href="https://github.com/omidzed/omidzed/blob/main/Omid-Resume.pdf">  📄  View My Resume</a> </h2>
+
+
+###  📫   &nbsp; Let's Connect: &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.linkedin.com/in/omidzasadi/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) </a> <a href="mailto:omiddzedd@gmail.com">![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="mailto:omidzedd@icloud.com"><img src="icloud-mail.png" width="100" height="28"></a>
+ 
 
 ---
 
 <div align="center">
- 	
+  
 ### 💻 Core Technologies :
 
 <p align="center">
@@ -34,7 +42,7 @@
 
 <div align="center">
   
-⭐ My Stats :
+<h3> ⭐ My Stats : </h3>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omidzed&layout=compact&theme=vision-friendly-dark)](https://github.com/omidzed/github-readme-stats)
 
@@ -44,6 +52,7 @@
 
 
 <!--
+## <a href="https://github.com/omidzed/omidzed/blob/main/Omid-Resume.pdf">  📄 View My Resume</a>
 **omidzed/omidzed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
