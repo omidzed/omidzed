@@ -1,10 +1,10 @@
 ### 👋 Hi there, 
 
-&nbsp;&nbsp;&nbsp;&nbsp;My name is Omid, and I am a full stack software developer from Southern California with a keen eye for impactful technology. My journey in tech is driven by a deep-seated passion for creating solutions that matter and a continuous quest for learning and challenging myself in the process.
+&nbsp;&nbsp;&nbsp;&nbsp;My name is Omid, and I am a full stack software developer with an eye for impactful technology. My journey in tech is driven by a deep-seated passion for creating solutions that matter and a continuous quest for learning and challenging myself in the process.
 
 &nbsp;&nbsp;&nbsp;&nbsp;When I'm not coding, you'll find me exploring the world of mixed martial arts, and other competitive sports.My favorite thing above all is enjoying all of life's gifs and pleasures alongside my amazing family and our adorable, and typically well - behaved pets. (🐶 x3 & 🐱)  I also love to travel and my next adventures that I have planned are going to be Latin America (Colombia, Argentina) and then Egypt to see the Great Pyramids, which I am huge fan of these days. 
 
-&nbsp;&nbsp;&nbsp;&nbsp;I believe in the power of technology to change the world, and I'm on a mission to contribute to that change. Let's connect and make something amazing together!
+&nbsp;&nbsp;&nbsp;&nbsp;I believe in the power of technology to change the world for the better, and I'm on a mission to contribute to that change. Let's connect and make something amazing together!
 
 ---
 
