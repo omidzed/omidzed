@@ -8,7 +8,7 @@
 
 ---
 
-#  <a href="https://github.com/omidzed/omidzed/blob/main/Omid-Resume.pdf"><img src="https://img.shields.io/badge/My-Resume-purple" alt="My Resume"></a>
+#  <a href="https://github.com/omidzed/omidzed/blob/main/Omid Asadi Resume.pdf"><img src="https://img.shields.io/badge/My-Resume-purple" alt="My Resume"></a>
     
 
 ###  📫 Let's Connect: &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.linkedin.com/in/omidzasadi/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) </a> <a href="mailto:omid.develops@gmail.com">![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> 
