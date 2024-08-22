@@ -11,7 +11,7 @@
 #  <a href="https://github.com/omidzed/omidzed/blob/main/Omid-Resume.pdf"><img src="https://img.shields.io/badge/My-Resume-purple" alt="My Resume"></a>
     
 
-###  📫 Let's Connect: &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.linkedin.com/in/omidzasadi/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) </a> <a href="mailto:omiddzedd@gmail.com">![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="mailto:omidzedd@icloud.com"><img src="icloud-mail.png" width="100" height="28"></a>
+###  📫 Let's Connect: &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.linkedin.com/in/omidzasadi/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) </a> <a href="mailto:omid.develops@gmail.com">![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> 
  
 
 ---
@@ -26,9 +26,7 @@
 
 ### 🔧 Other Languages & Tools :
 
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts&perline=50"/><br>
-<img src="https://skillicons.dev/icons?i=nextjs,vite,figma,git,github,npm,postman&perline=50"/><br>
-<img src="https://skillicons.dev/icons?i=vercel,firebase,aws,vscode,docker,jest,ps,pr,xd&perline=50"/>
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,aws,next&perline=50"/><br>
 </a>
    </div>
 
