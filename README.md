@@ -7,9 +7,8 @@ My name is Omid Asadi and I'm a Full Stack Developer specializing in React, Type
     
 [![linkedin][linkedin.js]][linkedin-url] &nbsp; [![gmail][gmail.js]][gmail-url]
 
-<a href="">![LinkedIn]() </a> &nbsp; <a href="">![GMAIL]()</a> 
- 
 
+ 
 ---
 
 <div align="left">
@@ -36,7 +35,7 @@ My name is Omid Asadi and I'm a Full Stack Developer specializing in React, Type
 
 ---
 
-<div align="center">
+<div align="left">
   
 <h3> ⭐ My Stats : </h3>
 
