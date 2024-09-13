@@ -15,7 +15,7 @@ My name is Omid Asadi and I'm a Full Stack Developer specializing in React, Type
   
 ## 💻 Core Technologies :
 
-[![React][React.js]][React-url] &nbsp; [![TypeScript][TypeScript.js]][TypeScript-url] &nbsp; [![Express][Express.js]][Express-url] &nbsp; [![PostgreSQL][PostgreSQL.js]][PostgreSQL-url]  &nbsp; [![AWS][AWS.js]][AWS-url]
+[![React][React.js]][React-url] &nbsp; [![TypeScript][TypeScript.js]][TypeScript-url]  &nbsp; [![node][node.js]][node-url] &nbsp; [![Express][Express.js]][Express-url] &nbsp; [![PostgreSQL][PostgreSQL.js]][PostgreSQL-url]  &nbsp; [![AWS][AWS.js]][AWS-url]
   
 
 
@@ -56,8 +56,8 @@ Here are some ideas to get you started:
 -->
 
 
-[figma.js]: https://img.shields.io/badge/figma-green?style=for-the-badge&logo=figma&logoSize=auto
-[figma-url]: https://www.figma.com/
+[node.js]: https://img.shields.io/badge/node.js-%2314211F?style=for-the-badge&logo=node.js&logoColor=%235CAD47&logoSize=auto
+[node-url]: https://nodejs.org/en
 [js.js]: https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript&logoColor=black&logoSize=auto
 [js-url]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
 [Tailwind.js]: https://img.shields.io/badge/Tailwind%20css-%230F172A?style=for-the-badge&logo=Tailwind%20css&logoColor=%2338BDF8&logoSize=auto
