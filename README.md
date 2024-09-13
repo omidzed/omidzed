@@ -1,21 +1,27 @@
-#  <a href="https://github.com/omidzed/omidzed/blob/main/Omid Asadi Resume.pdf"><img src="https://img.shields.io/badge/resume-purple?style=for-the-badge&logoSize=auto&label=my&labelColor=grey" alt="My Resume"></a>
+  <a href="https://github.com/omidzed/omidzed/blob/main/Omid Asadi Resume.pdf"><img src="https://img.shields.io/badge/resume-purple?style=for-the-badge&logoSize=auto&label=my&labelColor=grey" alt="My Resume"></a>
 
 My name is Omid Asadi and I'm a Full Stack Developer specializing in React, TypeScript, Node.js, PostgreSQL, and AWS. My current interests include Next.js and Python. I have about 2 years of experience in the industry and I have built applications related to sports betting, cryptocurrency, and a productivity journal software. I believe in the power of technology to change the world for the better, and I'm on a mission to contribute to that change. Let's connect and make something amazing together!
 
 
 
     
+[![linkedin][linkedin.js]][linkedin-url] &nbsp; [![gmail][gmail.js]][gmail-url]
 
-###  📫 Let's Connect: &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.linkedin.com/in/omidzasadi/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) </a> &nbsp; <a href="mailto:omid.develops@gmail.com">![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> 
+<a href="">![LinkedIn]() </a> &nbsp; <a href="">![GMAIL]()</a> 
  
 
 ---
 
 <div align="left">
   
-## 💻 Core Technologies :
+### 💻 Core Technologies :
 
-[![React][React.js]][React-url] &nbsp; [![TypeScript][TypeScript.js]][TypeScript-url]  &nbsp; [![node][node.js]][node-url] &nbsp; [![Express][Express.js]][Express-url] &nbsp; [![PostgreSQL][PostgreSQL.js]][PostgreSQL-url]  &nbsp; [![AWS][AWS.js]][AWS-url]
+- [![React][React.js]][React-url] 
+- [![TypeScript][TypeScript.js]][TypeScript-url] 
+- [![node][node.js]][node-url] 
+- [![Express][Express.js]][Express-url]
+- [![PostgreSQL][PostgreSQL.js]][PostgreSQL-url] 
+- [![AWS][AWS.js]][AWS-url]
   
 
 
@@ -55,7 +61,10 @@ Here are some ideas to get you started:
  <img src="https://komarev.com/ghpvc/?username=omidzed&style=flat-square&color=blue" alt=""/>
 -->
 
-
+[gmail.js]: https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+[gmail-url]: mailto:omid.develops@gmail.com
+[linkedin.js]: https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white
+[linkedin-url]: https://www.linkedin.com/in/omidzasadi/
 [node.js]: https://img.shields.io/badge/node.js-%2314211F?style=for-the-badge&logo=node.js&logoColor=%235CAD47&logoSize=auto
 [node-url]: https://nodejs.org/en
 [js.js]: https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript&logoColor=black&logoSize=auto
