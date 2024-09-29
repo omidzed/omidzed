@@ -26,7 +26,7 @@ My name is Omid Asadi and I'm a Full Stack Developer specializing in React, Type
 
 
 ###  Other Languages & Tools :
-[![HTML5][HTML5.js]][HTML5-url] &nbsp; [![CSS][CSS.js]][CSS-url] &nbsp;  [![js][js.js]][js-url] &nbsp; [![Tailwind][Tailwind.js]][Tailwind-url]  &nbsp; [![Vite][Vite.js]][Vite-url] &nbsp; [![Next][Next.js]][Next-url]
+[![HTML5][HTML5.js]][HTML5-url] &nbsp; [![CSS][CSS.js]][CSS-url] &nbsp;  [![js][js.js]][js-url] &nbsp; [![Tailwind][Tailwind.js]][Tailwind-url]  &nbsp; [![Vite][Vite.js]][Vite-url] &nbsp; [![Next][Next.js]][Next-url] &nbsp; [![jest][jest.js]][jest-url]
 
 </a>
    </div>
@@ -60,6 +60,8 @@ Here are some ideas to get you started:
  <img src="https://komarev.com/ghpvc/?username=omidzed&style=flat-square&color=blue" alt=""/>
 -->
 
+[jest.js]: https://img.shields.io/badge/jest-maroon?style=for-the-badge&logo=jest&logoSize=auto
+[jest-url]: https://jestjs.io/
 [gmail.js]: https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 [gmail-url]: mailto:omid.develops@gmail.com
 [linkedin.js]: https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white
