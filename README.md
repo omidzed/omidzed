@@ -1,6 +1,6 @@
   <a href="https://github.com/omidzed/omidzed/blob/main/Omid Asadi - Resume.pdf"><img src="https://img.shields.io/badge/resume-purple?style=for-the-badge&logoSize=auto&label=my&labelColor=grey" alt="My Resume"></a>
 
- Hi, I'm Omid Asadi, a Full Stack Developer specializing in React, TypeScript, Node.js, Express, PostgreSQL, and AWS. My current interests include Next.js and Python. I have about 2 years of experience in the industry and I have built applications related to sports betting, cryptocurrency, and a productivity journal software. I believe in the power of technology to change the world for the better, and I'm on a mission to contribute to that change. Let's connect and make something amazing together!
+  Hi, I'm Omid Asadi, a Full Stack Developer specializing in 𝙍𝙚𝙖𝙘𝙩, 𝙏𝙮𝙥𝙚𝙎𝙘𝙧𝙞𝙥𝙩, 𝙉𝙤𝙙𝙚.𝙟𝙨, 𝙀𝙭𝙥𝙧𝙚𝙨𝙨, 𝙋𝙤𝙨𝙩𝙜𝙧𝙚𝙎𝙌𝙇, and 𝘼𝙒𝙎. My current interests include 𝙉𝙚𝙭𝙩.𝙟𝙨 and 𝙋𝙮𝙩𝙝𝙤𝙣. I have about 2 years of experience in the industry and I have built applications related to sports betting, cryptocurrency, and a productivity journal software. I believe in the power of technology to change the world for the better, and I'm on a mission to contribute to that change. Let's connect and make something amazing together!
 
 
 
@@ -13,7 +13,7 @@
 
 <div align="left">
   
-### 💻 Core Technologies :
+### 💻 𝘊𝘰𝘳𝘦 𝘛𝘦𝘤𝘩𝘯𝘰𝘭𝘰𝘨𝘪𝘦𝘴 :
 
 - [![React][React.js]][React-url] 
 - [![TypeScript][TypeScript.js]][TypeScript-url] 
@@ -25,7 +25,7 @@
 
 
 
-###  Other Languages & Tools :
+###  𝘖𝘵𝘩𝘦𝘳 𝘓𝘢𝘯𝘨𝘶𝘢𝘨𝘦𝘴 / 𝘚𝘬𝘪𝘭𝘭𝘴  :
 [![HTML5][HTML5.js]][HTML5-url] &nbsp; [![CSS][CSS.js]][CSS-url] &nbsp;  [![js][js.js]][js-url] &nbsp; [![Tailwind][Tailwind.js]][Tailwind-url]  &nbsp; [![Vite][Vite.js]][Vite-url] &nbsp; [![Next][Next.js]][Next-url] &nbsp; [![jest][jest.js]][jest-url]
 
 </a>
