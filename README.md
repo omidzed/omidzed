@@ -46,27 +46,13 @@
 </div>
 
 
-<!--
-## <a href="https://github.com/omidzed/omidzed/blob/main/Omid-Resume.pdf">  📄 View My Resume</a>
-**omidzed/omidzed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
- <img src="https://komarev.com/ghpvc/?username=omidzed&style=flat-square&color=blue" alt=""/>
--->
-
 [jest.js]: https://img.shields.io/badge/jest-maroon?style=for-the-badge&logo=jest&logoSize=auto
 [jest-url]: https://jestjs.io/
 [gmail.js]: https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 [gmail-url]: mailto:omid.develops@gmail.com
 [linkedin.js]: https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white
 [linkedin-url]: https://www.linkedin.com/in/omidzasadi/
-[node.js]: https://img.shields.io/badge/node.js-%2314211F?style=for-the-badge&logo=node.js&logoColor=%235CAD47&logoSize=auto
+[node.js]:  https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white
 [node-url]: https://nodejs.org/en
 [js.js]: https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript&logoColor=black&logoSize=auto
 [js-url]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
@@ -82,8 +68,6 @@ Here are some ideas to get you started:
 [TypeScript-url]: https://www.typescriptlang.org/
 [PostgreSQL.js]: https://img.shields.io/badge/postgresql-%23336791?style=for-the-badge&logo=postgresql&logoColor=white&logoSize=auto
 [PostgreSQL-url]: https://www.postgresql.org/
-[Express.js]: https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white
-[Express-url]: https://expressjs.com/
 [Vite.js]: https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E
 [Vite-url]: https://vitejs.dev/
 [TypeScript.js]: https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square
@@ -99,3 +83,21 @@ Here are some ideas to get you started:
 [Next-url]: https://nextjs.org/
 [React.js]: https://img.shields.io/badge/react-%2323272F?style=for-the-badge&logo=react&logoColor=%2357C0D7&logoSize=auto
 [React-url]: https://reactjs.org/
+[Express.js]: https://img.shields.io/badge/EXPRESS-555555?style=for-the-badge&logo=express&logoColor=white
+[Express-url]: https://expressjs.com/
+
+<!--
+## <a href="https://github.com/omidzed/omidzed/blob/main/Omid-Resume.pdf">  📄 View My Resume</a>
+**omidzed/omidzed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here are some ideas to get you started:
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+ <img src="https://komarev.com/ghpvc/?username=omidzed&style=flat-square&color=blue" alt=""/>
+
+https://img.shields.io/badge/node.js-%2314211F?style=for-the-badge&logo=node.js&logoColor=%235CAD47&logoSize=auto
+-->
