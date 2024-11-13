@@ -1,6 +1,6 @@
   <a href="https://github.com/omidzed/omidzed/blob/main/Omid Asadi - Resume.pdf"><img src="https://img.shields.io/badge/resume-purple?style=for-the-badge&logoSize=auto&label=my&labelColor=grey" alt="My Resume"></a>
 
-  Hi, I'm Omid Asadi, a Full Stack Developer specializing in 𝙍𝙚𝙖𝙘𝙩, 𝙏𝙮𝙥𝙚𝙎𝙘𝙧𝙞𝙥𝙩, 𝙉𝙤𝙙𝙚.𝙟𝙨, 𝙀𝙭𝙥𝙧𝙚𝙨𝙨, 𝙋𝙤𝙨𝙩𝙜𝙧𝙚𝙎𝙌𝙇, and 𝘼𝙒𝙎. My current interests include 𝙉𝙚𝙭𝙩.𝙟𝙨 and 𝙋𝙮𝙩𝙝𝙤𝙣. I have about 2 years of experience in the industry and I have built applications related to sports betting, cryptocurrency, and a productivity journal software. I believe in the power of technology to change the world for the better, and I'm on a mission to contribute to that change. Let's connect and make something amazing together!
+  Hi, I'm Omid, a Full Stack Developer specializing in 𝙍𝙚𝙖𝙘𝙩, 𝙏𝙮𝙥𝙚𝙎𝙘𝙧𝙞𝙥𝙩, 𝙉𝙤𝙙𝙚.𝙟𝙨, 𝙀𝙭𝙥𝙧𝙚𝙨𝙨, 𝙋𝙤𝙨𝙩𝙜𝙧𝙚𝙎𝙌𝙇, and 𝘼𝙒𝙎. My current interests include 𝙉𝙚𝙭𝙩.𝙟𝙨 and 𝙋𝙮𝙩𝙝𝙤𝙣. I have about 2 years of experience in the industry and I have built applications related to sports betting, cryptocurrency, and a productivity journal software. I believe in the power of technology to change the world for the better, and I'm on a mission to contribute to that change. Let's connect and make something amazing together!
 
 
 
