@@ -26,7 +26,7 @@
 
 
 ###  𝘖𝘵𝘩𝘦𝘳 𝘓𝘢𝘯𝘨𝘶𝘢𝘨𝘦𝘴 / 𝘚𝘬𝘪𝘭𝘭𝘴  :
-[![HTML5][HTML5.js]][HTML5-url] &nbsp; [![CSS][CSS.js]][CSS-url] &nbsp;  [![js][js.js]][js-url] &nbsp; [![Tailwind][Tailwind.js]][Tailwind-url]  &nbsp; [![Vite][Vite.js]][Vite-url] &nbsp; [![Next][Next.js]][Next-url] &nbsp; [![jest][jest.js]][jest-url]
+[![HTML5][HTML5.js]][HTML5-url] &nbsp; [![CSS][CSS.js]][CSS-url] &nbsp;  [![js][js.js]][js-url] &nbsp;  [![jx][jx.js]][js-url] &nbsp; [![Tailwind][Tailwind.js]][Tailwind-url]  &nbsp; [![Vite][Vite.js]][Vite-url] &nbsp; [![Next][Next.js]][Next-url] &nbsp; [![jest][jest.js]][jest-url]
 
 </a>
    </div>
@@ -54,6 +54,7 @@
 [linkedin-url]: https://www.linkedin.com/in/omidzasadi/
 [node.js]:  https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white
 [node-url]: https://nodejs.org/en
+[jx.js]: https://img.shields.io/badge/-JAVASCRIPT-FFD700?style=flat-square&logo=javascript&logoColor=black&labelColor=FFD700
 [js.js]: https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript&logoColor=black&logoSize=auto
 [js-url]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
 [Tailwind.js]: https://img.shields.io/badge/Tailwind%20css-%230F172A?style=for-the-badge&logo=Tailwind%20css&logoColor=%2338BDF8&logoSize=auto
