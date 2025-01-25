@@ -41,7 +41,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omidzed&layout=compact&theme=vision-friendly-dark)](https://github.com/omidzed/github-readme-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=omidzed&theme=chartreuse-dark&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats)
 
 </div>
 
@@ -87,6 +86,7 @@
 [Express-url]: https://expressjs.com/
 
 <!--
+[![GitHub Streak](https://streak-stats.demolab.com?user=omidzed&theme=chartreuse-dark&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats)
 ## <a href="https://github.com/omidzed/omidzed/blob/main/Omid-Resume.pdf">  📄 View My Resume</a>
 **omidzed/omidzed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
